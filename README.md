@@ -1,3 +1,3 @@
 Abstract Data Types (C++)
 
-- linked lists (doubly inked lists)[./list/linked-list.h]
+- linked lists [doubly linked list](./list/linked-list.h)
